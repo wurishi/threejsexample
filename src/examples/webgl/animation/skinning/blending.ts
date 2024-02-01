@@ -1,4 +1,3 @@
-// @ts-nocheck
 import * as THREE from 'three'
 import Example, { iInitDestroy, iInitParams } from '@/libs/example'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'

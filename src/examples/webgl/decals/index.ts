@@ -1,4 +1,3 @@
-// @ts-nocheck
 import Example, { iInitParams } from '@/libs/example'
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'

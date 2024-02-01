@@ -1,4 +1,3 @@
-// @ts-nocheck
 import Example, { iInitDestroy, iInitParams } from '@/libs/example'
 import { includeStyleElement, removeStyleElement } from '@/libs/styles'
 import { GUI, GUIController } from 'dat.gui'

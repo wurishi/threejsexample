@@ -1,4 +1,3 @@
-// @ts-nocheck
 import Example, { iInitDestroy, iInitParams } from '@/libs/example'
 import { GUI } from 'dat.gui'
 import * as THREE from 'three'
